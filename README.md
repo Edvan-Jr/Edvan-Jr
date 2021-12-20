@@ -1,4 +1,4 @@
-### Hi there 👋
+![download](https://user-images.githubusercontent.com/81285428/146750095-66da12c4-58f0-4fda-b090-19c085608657.png)
 
 <!--
 **Edvan-Jr/Edvan-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
