@@ -33,6 +33,6 @@
 
 <div>
 <a href="https://github.com/Edvan-Jr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvan-Jr&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvan-Jr&layout=compact&langs_count=7&theme=github_dark"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvan-Jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,issues,contribs"/> -->
 </div>
