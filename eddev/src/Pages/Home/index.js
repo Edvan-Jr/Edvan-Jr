@@ -9,7 +9,8 @@ function Home() {
           seja bem vind@! <br />
           Meu nome é Edvan Jr.,<br />
           e amo desenvolver<br />
-          páginas web.<br /><br />
+          páginas web.<br />
+          👋
         </p>
       </div>
     </div>
