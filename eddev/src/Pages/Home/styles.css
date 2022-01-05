@@ -1,0 +1,23 @@
+.container-home {
+  width: 100vw;
+  height: calc(100vh - 85px);
+
+  background-image: url("../../Assets/juandesouza_frameworks-de-desenvolvedores.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  display: flex;
+  align-items: flex-end;
+
+  color: #33323D;
+}
+
+.apresentacao {
+  background-color: #fff;
+
+  margin-left: 200px;
+  padding: 20px;
+
+  font-size: 28px;
+}

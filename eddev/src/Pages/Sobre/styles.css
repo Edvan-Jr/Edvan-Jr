@@ -1,0 +1,35 @@
+.container-sobre {
+  height: calc(100vh - 85px);
+
+  padding: 0 100px;
+
+  display: flex;
+  gap: 75px;
+
+  color: #33323D;
+}
+
+.left-sobre {
+  flex-basis: 50%;
+
+  background-image: url("../../Assets/perfil-eddev.jpg");
+  background-repeat: no-repeat;
+}
+
+.rigth-sobre {
+  flex-basis: 45%;
+
+  padding-top: 10px;
+
+  border-top: 1px solid rgba(51, 50, 61, .15);
+}
+
+.rigth-sobre h1 {
+  margin-bottom: 15px;
+}
+
+.rigth-sobre p{
+  text-align: justify;
+  text-indent: 25px;
+  line-height: 25px;
+}

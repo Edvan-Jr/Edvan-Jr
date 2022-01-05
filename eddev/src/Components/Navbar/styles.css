@@ -1,0 +1,14 @@
+.nav-header {
+  display: flex;
+  gap: 50px;
+}
+
+.nav-header a {
+  text-decoration: none;
+  color: #33323D;
+
+}
+
+.nav-header a:focus {
+  color: #5FB4A2;
+}
