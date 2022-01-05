@@ -9,7 +9,7 @@ function Contato() {
         <h1>Entre em Contato</h1>
       </div>
       <div className="rigth-contato">
-        <p>Acabei de ser contratado para o cargo de Software Engineer, no iFood, estou muito feliz por isto, e quero me dedicar totalmente a esta missão. Nas horas vagas, além de aproveitar a família e do lazer, também pretendo desenvolver três sites a princípio: um para a minha esposa naturóloga, outro para a transportadora do meu sogro, e outro para a minha sogra cabeleireira.<br />
+        <p>Acabei de ser contratado para o cargo de Software Engineer, no iFood, estou muito feliz por isto, e quero me dedicar totalmente a esta missão. Nas horas vagas, além de aproveitar a família e o lazer, também pretendo desenvolver três sites a princípio: um para a minha esposa naturóloga, outro para a transportadora do meu sogro, e outro para a minha sogra cabeleireira.<br />
           Caso eu possa lhe ajudar em algo, estarei à disposição, e fique à vontade para visitar os meus perfis abaixo.
         </p>
         <nav className="nav-redes-sociais">
