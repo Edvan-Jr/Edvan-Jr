@@ -3,7 +3,8 @@
 <h1>Edvan Jr. 👋<br>Desenvolvedor Front End</h1>
 
 <p align="left"> 
-  Desde as horas na infância frente aos consoles games e PCs, sempre me interessei pela area de tecnologia. Hoje, depois de atuar em outras areas, meu foco é voltar a investir na carreira de Desenvolvedor (Full Stack, com foco em) Front End, começar, e não parar mais.
+  Desde as horas na infância frente aos consoles games e PCs, sempre me interessei pela area de tecnologia. Depois de atuar em outras areas, aos 35 anos, inicio minha carreira profissional em TI, como FoodLover Software Engineer (gratidão, iFood! ❤).</br>
+  Bora alimentar o futuro do mundo!
 </p>
 
 <p align="left">
