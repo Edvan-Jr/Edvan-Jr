@@ -3,8 +3,8 @@
 <h1>Edvan Jr. 👋<br>Desenvolvedor Front End</h1>
 
 <p align="left"> 
-  Desde as horas na infância frente aos consoles games e PCs, sempre me interessei pela area de tecnologia. Depois de atuar em outras areas, aos 35 anos, inicio minha carreira profissional em TI, como FoodLover Software Engineer. ❤</br>
-  Bora alimentar o futuro do mundo! 🚀
+  Desde as horas na infância frente aos consoles games e PCs, sempre me interessei pela area de tecnologia. Depois de atuar em outras areas, aos 35 anos, inicio minha carreira profissional em TI como FoodLover😍 Software Engineer.
+Gratidão, iFood!❤ Bora alimentar o futuro do mundo!🚀
 </p>
 
 <p align="left">
