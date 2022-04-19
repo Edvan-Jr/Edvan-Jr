@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1>Edvan Jr. 👋<br>Desenvolvedor Front End</h1>
+<h1>Edvan Jr. 👋<br> FoodLover Software Engineer</h1>
 
 <p align="left"> 
   Desde as horas na infância frente aos consoles games e PCs, sempre me interessei pela area de tecnologia. Depois de atuar em outras areas, aos 35 anos, inicio minha carreira profissional em TI como FoodLover😍 Software Engineer.
@@ -16,11 +16,11 @@ Gratidão, iFood!❤ Bora alimentar o futuro do mundo!🚀
 </p>
 
 <p align="left">
-  💻 Skills: <strong>React | JavaScript | API REST | Node Js | PostgreSQL | CSS | HTML</strong>
+  💻 Skills: <strong>Java | Spring | API REST | React | JavaScript | Node Js | PostgreSQL | MySQL | CSS | HTML</strong>
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VS Code | Figma | GitHub.</strong>
+  🛠 Ferramentas: <strong>VS Code | Eclipse | Figma | GitHub</strong>
 </p>
 
 <p align="left">
