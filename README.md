@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1>Edvan Miranda Jr. 👋<br> FoodLover Software Engineer</h1>
+<h1>Edvan Miranda Jr. 👋</h1>
 
 <p align="left">
   💻 Skills: <strong>Java | Spring | API REST | React | JavaScript | Node Js | PostgreSQL | MySQL | CSS | HTML</strong>
